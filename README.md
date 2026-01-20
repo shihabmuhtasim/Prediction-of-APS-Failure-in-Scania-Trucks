@@ -127,6 +127,6 @@ Project_main.ipynb
 
 ---
 
-**Author:** Mayisha Hossain Bhuiyan  
+**Author:** Shihab Muhtasim
 **Domain:** Machine Learning & Data Mining  
 
