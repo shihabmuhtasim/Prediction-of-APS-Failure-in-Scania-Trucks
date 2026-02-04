@@ -1,4 +1,5 @@
 # 🚚 APS Failure Prediction – Scania Trucks
+<img width="1536" height="1024" alt="aps-scania-cover" src="https://github.com/user-attachments/assets/5de29edd-b7c2-4c45-823c-73d3cd905219" />
 
 ## Predictive Maintenance Using Machine Learning
 
